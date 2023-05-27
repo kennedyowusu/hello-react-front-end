@@ -76,6 +76,8 @@ Hello-React-Front-End is a user-friendly tutorial designed to teach you how to c
 - node_modules checker
 - Github
 
+Link to Backend - https://github.com/kennedyowusu/hello-rails-backend
+
 ### Install
 
 Install this project with:
