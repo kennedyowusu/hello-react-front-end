@@ -112,7 +112,7 @@ You can deploy this project using: Render, or Netlify
 
 ## Author
 
-👤 **Felix Nzomo Nyamai**
+👤 **Kennedy Owusu**
 
 - GitHub: [@githubhandle](https://github.com/kennedyowusu)
 - Twitter: [@twitterhandle](https://twitter.com/@_iamkobby)
